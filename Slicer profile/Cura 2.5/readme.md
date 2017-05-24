@@ -1,6 +1,7 @@
-to use those files place them in your Cura installation folder
+To use those files place them in your Cura installation folder
 
-==on windows machines==
+on windows machines it is here:
+
 put the json file in
 * C:\Program Files\Cura 2.5\resources\definitions
 put the .stl file in
